@@ -1,0 +1,7 @@
+{
+  "name": "app-makinas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
